@@ -13,19 +13,29 @@ These questions cover:
 
 
 ## PERSONAL EXPERIENCE IN THE COMPANY
-*- Why did you choose to come to this company?*
-- What do you enjoy most about working here?
-- What is the most important/valuable thing you have learnt from working here?
-- What is something you wish were different about your job? and about the company?
-- What do you think the company can improve at?
-- What is the most frustrating part about working here?
-- Is there a unique thing about working here that you have not experienced elsewhere?
-- What makes you stay here and do not change company?
-- How did you become (your current position)?
-- How would you see yourself growing at this company in the next few years?
+**- Why did you choose to come to this company?**
 
-- Was there a time where you messed up and how was it handled?
-- What does a typical day look like for you?
+**- What do you enjoy most about working here?**
+
+**- What is the most important/valuable thing you have learnt from working here?**
+
+**- What is something you wish were different about your job? and about the company?**
+
+**- What do you think the company can improve at?**
+
+**- What is the most frustrating part about working here?**
+
+**- Is there a unique thing about working here that you have not experienced elsewhere?**
+
+**- What makes you stay here and do not change company?**
+
+**- How did you become (your current position)?**
+
+**- How would you see yourself growing at this company in the next few years?**
+
+*- Was there a time where you messed up and how was it handled?*
+
+*- What does a typical day look like for you?*
 
 
 ## WORKING SCHEDULE
