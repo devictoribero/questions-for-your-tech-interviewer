@@ -39,24 +39,24 @@ These questions cover:
 
 
 ## WORKING SCHEDULE
-- Is overtime expected in this role? And in the company in general? How often do people overstay?
-- What is your policy on working from home/remotely?
+**- Is overtime expected in this role? And in the company in general? How often do people overstay?**
+**- What is your policy on working from home/remotely?**
 - How flexible is a work schedule? Is it possible to work on Sunday instead of Friday from time to time? How is it looked upon by management and colleagues?
 - Does anyone in the team work on weekends? Willingly/forcibly? Is overtime paid?
 
 
 ## JOB POSITION
-- What qualities do you look out for when hiring for this role?
-- How will look a typical day for me if I start working here?
-- What would I work on if I joined this team and who would I work most closely with?
-- To whom will the role report and can I meet them?
-- How empowered are the developers to take technical decisions?
+**- What qualities do you look out for when hiring for this role?**
+**- How will look a typical day for me if I start working here?**
+**- What would I work on if I joined this team and who would I work most closely with?**
+**- To whom will the role report and can I meet them?**
+**- How empowered are the developers to take technical decisions?**
 - What would be the most important problem you would want me to solve if I joined your team?
 
 
 ## MANAGEMENT
-- What are the strengths and weaknesses of the current team? What is being done to improve upon the weaknesses?
-- How do you measure individual performance?
+**- What are the strengths and weaknesses of the current team? What is being done to improve upon the weaknesses?**
+**- How do you measure individual performance?**
 - What does success look like for your team/project?
 - What is your team's biggest challenge right now?
 - What do you measure? What are your most important product metrics?
@@ -65,16 +65,16 @@ These questions cover:
 
 
 ## PROCESS
-- What software development methodology do you use, e.g. Agile, Scrum, Kanban? Code review practices? How was it improved in the last year? What would you like to improve in your team
+**- What software development methodology do you use, e.g. Agile, Scrum, Kanban? Code review practices? How was it improved in the last year? What would you like to improve in your team**
+**- Who supports project documentation? How often do they update it?**
+**- How do you estimate tasks? Who does the estimation? How do you measure tasks? Who is responsible for big changes?**
+**- How do you know what to work on each day?**
 - How do you understand if a project/sprint has successfully completed or failed? What performance metrics do you use?
-- Who supports project documentation? How often do they update it?
-- How do you estimate tasks? Who does the estimation? How do you measure tasks? Who is responsible for big changes?
-- How do you know what to work on each day?
 
 
 ## TECHNICAL
-- How would you describe your engineering culture?
-- How soon code submitted to the repository will be deployed to the production? CI/CD?
+**- How would you describe your engineering culture?**
+**- How soon code submitted to the repository will be deployed to the production? CI/CD?**
 - What are the engineering challenges that the company/team is facing?
 - What has been the worst technical blunder that has happened in the recent past? How did you guys deal with it? What changes were implemented afterwards to make sure it didn't happen again?
 - What is the most costly technical decision made early on that the company is living with now?
@@ -82,20 +82,20 @@ These questions cover:
 
 
 ## EDUCATION AND IMPROVEMENT
-- Does your company provide trainings for engineers (lectures, workshops, etc.)? How often? What was the most recent about? Who conducted it?
-- Does your company pay for courses/trainings/workshops/conferences outside of the company? Any terms or requirements?
-- Does the company have mentoring policy?
+**- Does your company provide trainings for engineers (lectures, workshops, etc.)? How often? What was the most recent about? Who conducted it?**
+**- Does your company pay for courses/trainings/workshops/conferences outside of the company? Any terms or requirements?**
+**- Does the company have mentoring policy?**
 - How many professional books have you read last year? What is your favorite tech book? Why?
 
 
 ## CAREER GROWTH AND OPPORTUNITIES
-- What are expectations for the position I am considered for?
+**- What are expectations for the position I am considered for?**
 - What are the perspectives for career development in terms of both skills and position? Are there bonuses? What are they awarded for and how frequent are they?
 - Does your company have a job rotation program?
 - Does your company run hackathons? Does your company reserve time for experiments (new library, new programming language, etc.)? Does your company have open source projects?
 
 
-## APPENDIX:
+# APPENDIX:
 I usually say that my professional interest are:
 
 - Apply SOLID principles at design, architecture and implementation level.
