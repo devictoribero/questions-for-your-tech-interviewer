@@ -50,10 +50,15 @@ These questions cover:
 
 ## JOB POSITION
 **- What qualities do you look out for when hiring for this role?**
+
 **- How will look a typical day for me if I start working here?**
+
 **- What would I work on if I joined this team and who would I work most closely with?**
+
 **- To whom will the role report and can I meet them?**
+
 **- How empowered are the developers to take technical decisions?**
+
 - What would be the most important problem you would want me to solve if I joined your team?
 
 
